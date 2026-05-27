@@ -4,18 +4,18 @@ A hybrid AI-powered virtual assistant built using Python, FastAPI, LangChain, FA
 The system combines semantic vector search with graph-based knowledge retrieval to handle complex multi-hop queries efficiently.
 
 ## Features
-Hybrid Retrieval Pipeline
-Integrated FAISS for semantic vector search.
-Used Neo4j graph database for relationship-aware query execution.
-Combined structured and unstructured data retrieval for improved response accuracy.
-Agent-Based Query Orchestration
-Built using LangChain agents.
-Dynamically routes queries between:
-Semantic similarity search
-Graph traversal operations
-Supports intelligent multi-step reasoning workflows.
-Scalable Backend Architecture
-Developed backend using FastAPI.
+### Hybrid Retrieval Pipeline
+### Integrated FAISS for semantic vector search.
+### Used Neo4j graph database for relationship-aware query execution.
+### Combined structured and unstructured data retrieval for improved response accuracy.
+### Agent-Based Query Orchestration
+### Built using LangChain agents.
+### Dynamically routes queries between:
+### Semantic similarity search
+### Graph traversal operations
+### Supports intelligent multi-step reasoning workflows.
+### Scalable Backend Architecture
+### Developed backend using FastAPI.
 
 
 ## Followed a modular architecture:
