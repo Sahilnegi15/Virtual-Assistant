@@ -1,9 +1,9 @@
-Virtual Assistant
+## Virtual Assistant
 
 A hybrid AI-powered virtual assistant built using Python, FastAPI, LangChain, FAISS, and Neo4j.
 The system combines semantic vector search with graph-based knowledge retrieval to handle complex multi-hop queries efficiently.
 
- #Features
+## Features
 Hybrid Retrieval Pipeline
 Integrated FAISS for semantic vector search.
 Used Neo4j graph database for relationship-aware query execution.
@@ -18,7 +18,7 @@ Scalable Backend Architecture
 Developed backend using FastAPI.
 
 
-Followed a modular architecture:
+## Followed a modular architecture:
 
 
 services/
@@ -30,7 +30,7 @@ Combined vector embeddings with graph relationships.
 Reduced query latency while improving contextual relevance.
 
 
-# Tech Stack
+## Tech Stack
 Technology	                Purpose
 Python                    	Core backend development
 FastAPI	                    API framework
